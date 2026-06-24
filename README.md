@@ -9,7 +9,7 @@ Professional engineering repository configurations deployed inside your GitHub p
 
 ---
 
-## 📝 Overview & Core Description
+## Overview & Core Description
 
 Welcome to the **Data Science Masters 2.0** course repository by PWskills! This repository is designed to be a comprehensive resource for anyone enrolled in the Data Science Masters 2.0 program. Here, you'll find everything you need to master the principles and practices of data science, from foundational concepts to advanced techniques.
 
@@ -64,7 +64,7 @@ To get started with the course, follow these steps:
 
 ---
 
-## 🏛️ System Design & Folder Structure
+## System Design & Folder Structure
 ```text
 .github/                  # CI/CD pipelines, Dependabot, and Issue/PR schemas
 .editorconfig             # Unified file formatting configuration
@@ -81,14 +81,14 @@ SECURITY.md               # Responsible vulnerability disclosures
 
 ---
 
-## 🛠️ Tooling & Tech Stack
+## Tooling & Tech Stack
 - **Primary Environment:** Python runtime.
 - **Workflow Automation:** GitHub Actions CI, Dependabot, and CodeQL.
 - **Standards Checkers:** Git `pre-commit` hook validations.
 
 ---
 
-## ⚙️ Quickstart & Local Setup
+## Quickstart & Local Setup
 1. Clone this repository locally:
    ```bash
    git clone https://github.com/krsna016/python-learning-ineuron-2025-v1.git
@@ -101,10 +101,10 @@ SECURITY.md               # Responsible vulnerability disclosures
 
 ---
 
-## 📋 Security & Responsible Disclosure
+## Security & Responsible Disclosure
 For details on disclosing vulnerabilities or hardcoded secrets, refer directly to our [SECURITY.md](SECURITY.md) guidelines.
 
 ---
 
-## 📜 License
+## License
 This repository is licensed under the permissive **MIT License**. For details, see the [LICENSE](LICENSE) file.
